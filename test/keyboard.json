@@ -11,7 +11,7 @@
         "extrakey": true,
         "mousekey": true,
         "encoder": true,
-        "encoder_map": false,
+        "encoder_map": true,
         "oled": true,
         "nkro": true
     },
